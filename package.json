@@ -1,0 +1,28 @@
+{
+  "name": "hapi-plugin-route-notfound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^15.0.2",
+    "hoek": "^4.0.2",
+    "inert": "^4.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostthetrail/hapi-plugin-route-notfound.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostthetrail/hapi-plugin-route-notfound/issues"
+  },
+  "homepage": "https://github.com/lostthetrail/hapi-plugin-route-notfound#readme"
+}
